@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+<input type="text" required pattern="(\+?\d[- .]*){7,13}" title="international, national or local phone number"/>
+]]></content>
+<tabTrigger>input</tabTrigger>
+<scope>text.html, source.php</scope>
+</snippet>

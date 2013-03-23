@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+<p hidden>You can't see this text</p>
+]]></content>
+<tabTrigger>hidden</tabTrigger>
+<scope>text.html, source.php</scope>
+</snippet>

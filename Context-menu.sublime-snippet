@@ -1,0 +1,16 @@
+<snippet>
+<content><![CDATA[
+<section contextmenu="mymenu"> 
+<p>Yes, this section right here</p>
+</section>
+
+<menu type="context" id="mymenu">
+  <menuitem label="Please do not steal our images" icon="img/forbidden.png"></menuitem>
+  <menu label="Social Networks">
+  <menuitem label="Share on Facebook" onclick="window.location.href = 'http://facebook.com/sharer/sharer.php?u=' + window.location.href;">   </menuitem>
+  </menu>
+</menu>
+]]></content>
+<tabTrigger>contextmenu</tabTrigger>
+<scope>text.html, source.php</scope>
+</snippet>

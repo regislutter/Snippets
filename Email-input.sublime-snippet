@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+<input type="email" pattern="[^ @]*@[^ @]*" value="">
+]]></content>
+<tabTrigger>input</tabTrigger>
+<scope>text.html, source.php</scope>
+</snippet>

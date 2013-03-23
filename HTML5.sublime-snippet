@@ -1,0 +1,23 @@
+<snippet>
+<content><![CDATA[
+<!DOCTYPE html>
+<html><head>
+<title>$1</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="$2" />
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>-->
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="style.css" media="all" />
+</head><body>
+	<a id="top-of-page"></a>
+	<div id="wrap" class="clearfix">
+		$3
+	</div>
+</div>
+</body></html>
+]]></content>
+<tabTrigger>html5</tabTrigger>
+<scope>text.html, source.php</scope>
+</snippet>
