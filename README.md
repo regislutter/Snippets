@@ -79,12 +79,12 @@ With command line :
   <tr>
     <td>Hidden p</td>
     <td>hidden</td>
-    <td><p hidden>You can't see this text</p></td>
+    <td>'<p hidden>You can't see this text</p>'</td>
   </tr>
   <tr>
     <td>Autofocus input</td>
     <td>input</td>
-    <td><input autofocus="autofocus" /></td>
+    <td>'<input autofocus="autofocus" />'</td>
   </tr>
   <tr>
     <td>Data list</td>
@@ -94,27 +94,27 @@ With command line :
   <tr>
     <td>Email input</td>
     <td>input</td>
-    <td><input type="email" pattern="[^ @]*@[^ @]*" value=""></td>
+    <td>'<input type="email" pattern="[^ @]*@[^ @]*" value="">'</td>
   </tr>
   <tr>
     <td>Password input</td>
     <td>input</td>
-    <td><input title="at least eight symbols containing at least one number, one lower, and one upper letter" type="text" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required /></td>
+    <td>'<input title="at least eight symbols containing at least one number, one lower, and one upper letter" type="text" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required />'</td>
   </tr>
   <tr>
     <td>Phone input</td>
     <td>input</td>
-    <td><input type="text" required pattern="(\+?\d[- .]*){7,13}" title="international, national or local phone number"/></td>
+    <td>'<input type="text" required pattern="(\+?\d[- .]*){7,13}" title="international, national or local phone number"/>'</td>
   </tr>
   <tr>
     <td>Email in text input</td>
     <td>input</td>
-    <td><input type="text" title="email" required pattern="[^@]+@[^@]+\.[a-zA-Z]{2,6}" /></td>
+    <td>'<input type="text" title="email" required pattern="[^@]+@[^@]+\.[a-zA-Z]{2,6}" />'</td>
   </tr>
   <tr>
     <td>URL input</td>
     <td>input</td>
-    <td><input type="url" value=""></td>
+    <td>'<input type="url" value="">'</td>
   </tr>
 </table>
 
