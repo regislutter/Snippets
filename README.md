@@ -79,7 +79,7 @@ With command line :
   <tr>
     <td>Hidden p</td>
     <td>hidden</td>
-    <td>p hidden>You can't see this text</p</td>
+    <td>p hidden>You can't see this text /p></td>
   </tr>
   <tr>
     <td>Autofocus input</td>
