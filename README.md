@@ -9,7 +9,7 @@ First, you need a copy of [Sublime Text 2].
 
 ###Linux
 
-Download the *PHP-codeigniter.sublime-completions* file up above, and drop it in your *~/.config/sublime-text-2/Packages/PHP/* folder. Should work immediately.
+Download the *XXX.sublime-snippet* file up above, and drop it in your *~/.config/sublime-text-2/Packages/HTML/* folder. Should work immediately.
 
 OR
 
@@ -20,7 +20,7 @@ With command line :
 
 ###Mac OS X
 
-Download the *PHP-codeigniter.sublime-completions* file up above, and drop it to *%appdata%\Sublime Text 2\Packages\PHP\* folder. Should work immediately
+Download the *XXX.sublime-snippet* file up above, and drop it to *%appdata%\Sublime Text 2\Packages\HTML\* folder. Should work immediately
 You need also access to your library, type this command line in the Terminal :
 
     $ chflags nohidden ~/Library/
@@ -34,7 +34,7 @@ With command line :
 
 ###Windows
 
-Download the *PHP-codeigniter.sublime-completions* file up above, and drop it to *%appdata%\Sublime Text 2\Packages\PHP\* folder. Should work immediately
+Download the *XXX.sublime-snippet* file up above, and drop it to *%appdata%\Sublime Text 2\Packages\HTML\* folder. Should work immediately
 
 OR
 
