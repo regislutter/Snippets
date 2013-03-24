@@ -45,3 +45,5 @@ With command line :
 ##Questions, Comments, Concerns?
 
 Feel free to submit a pull request with any snippets you would like to add to the project. If you have any problems or suggestions you can contact me [on twitter](https://twitter.com/regislutter).
+
+[Sublime Text 2]: http://www.sublimetext.com/2
