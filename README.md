@@ -22,6 +22,7 @@ With command line :
 
 Download the *PHP-codeigniter.sublime-completions* file up above, and drop it to *%appdata%\Sublime Text 2\Packages\PHP\* folder. Should work immediately
 You need also access to your library, type this command line in the Terminal :
+
     $ chflags nohidden ~/Library/
 
 OR
